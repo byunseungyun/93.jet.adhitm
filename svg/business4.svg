@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-84 0 1520 4220" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Abril+Fatface:400|Roboto:100,300,500,700,900,100italic,300italic,400,400italic,500italic,700italic,900italic);</style>
+  </defs>
+  <rect x="28.565" y="15.864" width="1303.711" height="90.332" style="fill: rgb(255, 255, 255); stroke: rgb(116, 85, 218);"/>
+  <text x="362.25" y="84.392" style="font-size: 68px; white-space: pre;">도시가스 공급 문의</text>
+  <text x="15.245" y="207.56" transform="matrix(1, 0, 0, 0.999998, 31.445263, 1196.60498)" style="fill: rgb(116, 85, 218); font-family: &quot;Abril Fatface&quot;; font-size: 60.0001px; font-weight: bold; white-space: pre;">도시가스 공급신청후 시공업체의 선정</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.148926, 643.436768)" style="font-size: 50px; white-space: pre;">도시가스 공급신청시 반드시 도시가스 공급이 </text>
+  <rect x="1528.416" y="2296.736" width="1263.703" height="2.175" style="fill: rgb(216, 216, 216);"/>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.090637, 723.436707)" style="font-size: 50px; white-space: pre;">가능한 지역인지 확인하셔야 합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 803.436768)" style="font-size: 50px; white-space: pre;">공급이 가능한지 확인없이 공사 등을 추진하다 발생된</text>
+  <rect x="28.565" y="177.864" width="1303.711" height="90.332" style="fill: rgb(255, 255, 255); stroke: rgb(116, 85, 218);"/>
+  <text x="1832.277" y="158.198" transform="matrix(0.999999, 0, 0, 1, -1617.048462, 87.263573)" style="font-size: 68px; white-space: pre;">도시가스 공급 가능 여부 확인</text>
+  <g transform="matrix(0, 1, -1, 0, 806.638916, -1141.505127)">
+    <path d="M 452.482 262.303 L 463.934 285.208 L 441.029 285.208 L 452.482 262.303 Z" transform="matrix(0, 1, -1.000001, 0, 1580.903822, -305.024994)" style="fill: rgb(116, 85, 218);" bx:shape="triangle 441.029 262.303 22.905 22.905 0.5 0 1@c351db0c"/>
+    <rect x="1269.146" y="141.941" width="33.317" height="10.411" style="fill: rgb(116, 85, 218);"/>
+  </g>
+  <g transform="matrix(0, 1, -1, 0, 806.638916, -994.505127)">
+    <path d="M 452.482 262.303 L 463.934 285.208 L 441.029 285.208 L 452.482 262.303 Z" transform="matrix(0, 1, -1.000001, 0, 1580.903822, -305.024994)" style="fill: rgb(116, 85, 218);" bx:shape="triangle 441.029 262.303 22.905 22.905 0.5 0 1@c351db0c"/>
+    <rect x="1269.146" y="141.941" width="33.317" height="10.411" style="fill: rgb(116, 85, 218);"/>
+  </g>
+  <rect x="28.565" y="325.864" width="1303.711" height="90.332" style="fill: rgb(255, 255, 255); stroke: rgb(116, 85, 218);"/>
+  <text x="35.405" y="394.571" style="font-size: 68px; white-space: pre;">시공업체 계약 체결 및 도시가스 공급 신청</text>
+  <rect x="28.565" y="471.864" width="1303.711" height="90.332" style="fill: rgb(255, 255, 255); stroke: rgb(116, 85, 218);"/>
+  <text x="1832.277" y="158.198" transform="matrix(0.999999, 0, 0, 1, -1513.260498, 382.043365)" style="font-size: 68px; white-space: pre;">배관 설계 및 도면 작업</text>
+  <g transform="matrix(0, 1, -1, 0, 806.638916, -849.505127)">
+    <path d="M 452.482 262.303 L 463.934 285.208 L 441.029 285.208 L 452.482 262.303 Z" transform="matrix(0, 1, -1.000001, 0, 1580.903822, -305.024994)" style="fill: rgb(116, 85, 218);" bx:shape="triangle 441.029 262.303 22.905 22.905 0.5 0 1@c351db0c"/>
+    <rect x="1269.146" y="141.941" width="33.317" height="10.411" style="fill: rgb(116, 85, 218);"/>
+  </g>
+  <g transform="matrix(0, 1, -1, 0, 806.638916, -702.505127)">
+    <path d="M 452.482 262.303 L 463.934 285.208 L 441.029 285.208 L 452.482 262.303 Z" transform="matrix(0, 1, -1.000001, 0, 1580.903822, -305.024994)" style="fill: rgb(116, 85, 218);" bx:shape="triangle 441.029 262.303 22.905 22.905 0.5 0 1@c351db0c"/>
+    <rect x="1269.146" y="141.941" width="33.317" height="10.411" style="fill: rgb(116, 85, 218);"/>
+  </g>
+  <rect x="28.565" y="618.864" width="1303.711" height="90.332" style="fill: rgb(255, 255, 255); stroke: rgb(116, 85, 218);"/>
+  <text x="44.65" y="684.411" style="font-size: 64.8px; white-space: pre;">유관 기관 공문 및 도시가스 시설 분담금 신청</text>
+  <rect x="28.565" y="768.864" width="1303.711" height="90.332" style="fill: rgb(255, 255, 255); stroke: rgb(116, 85, 218);"/>
+  <text x="1832.277" y="158.198" transform="matrix(0.999999, 0, 0, 1, -1394.500854, 680.043335)" style="font-size: 68px; white-space: pre;">가스 배관 공사</text>
+  <g transform="matrix(0, 1, -1, 0, 806.638916, -551.505127)">
+    <path d="M 452.482 262.303 L 463.934 285.208 L 441.029 285.208 L 452.482 262.303 Z" transform="matrix(0, 1, -1.000001, 0, 1580.903822, -305.024994)" style="fill: rgb(116, 85, 218);" bx:shape="triangle 441.029 262.303 22.905 22.905 0.5 0 1@c351db0c"/>
+    <rect x="1269.146" y="141.941" width="33.317" height="10.411" style="fill: rgb(116, 85, 218);"/>
+  </g>
+  <g transform="matrix(0, 1, -1, 0, 806.638916, -404.505127)">
+    <path d="M 452.482 262.303 L 463.934 285.208 L 441.029 285.208 L 452.482 262.303 Z" transform="matrix(0, 1, -1.000001, 0, 1580.903822, -305.024994)" style="fill: rgb(116, 85, 218);" bx:shape="triangle 441.029 262.303 22.905 22.905 0.5 0 1@c351db0c"/>
+    <rect x="1269.146" y="141.941" width="33.317" height="10.411" style="fill: rgb(116, 85, 218);"/>
+  </g>
+  <rect x="28.565" y="918.864" width="1303.711" height="90.332" style="fill: rgb(255, 255, 255); stroke: rgb(116, 85, 218);"/>
+  <text x="572.236" y="484.392" transform="matrix(1, 0, 0, 0.999999, -334.588318, 504.973206)" style="font-size: 68.0001px; white-space: pre;">지하 굴착 및 지하 배관 공사</text>
+  <rect x="28.565" y="1068.864" width="1303.711" height="90.332" style="fill: rgb(255, 255, 255); stroke: rgb(116, 85, 218);"/>
+  <text x="1832.277" y="158.198" transform="matrix(0.999999, 0, 0, 1, -1440.960449, 980.49884)" style="font-size: 68px; white-space: pre;">공급 전 안전 검사</text>
+  <g transform="matrix(0, 1, -1, 0, 806.638916, -259.505127)">
+    <path d="M 452.482 262.303 L 463.934 285.208 L 441.029 285.208 L 452.482 262.303 Z" transform="matrix(0, 1, -1.000001, 0, 1580.903822, -305.024994)" style="fill: rgb(116, 85, 218);" bx:shape="triangle 441.029 262.303 22.905 22.905 0.5 0 1@c351db0c"/>
+    <rect x="1269.146" y="141.941" width="33.317" height="10.411" style="fill: rgb(116, 85, 218);"/>
+  </g>
+  <g transform="matrix(0, 1, -1, 0, 806.638916, -112.505127)">
+    <path d="M 452.482 262.303 L 463.934 285.208 L 441.029 285.208 L 452.482 262.303 Z" transform="matrix(0, 1, -1.000001, 0, 1580.903822, -305.024994)" style="fill: rgb(116, 85, 218);" bx:shape="triangle 441.029 262.303 22.905 22.905 0.5 0 1@c351db0c"/>
+    <rect x="1269.146" y="141.941" width="33.317" height="10.411" style="fill: rgb(116, 85, 218);"/>
+  </g>
+  <rect x="28.565" y="1218.864" width="1303.711" height="90.332" style="fill: rgb(255, 255, 255); stroke: rgb(116, 85, 218);"/>
+  <text x="436.994" y="1288.365" style="font-size: 68px; white-space: pre;">도시 가스 공급</text>
+  <text x="15.245" y="207.56" transform="matrix(1, 0, 0, 0.999998, 1552.441406, 2156.772949)" style="fill: rgb(116, 85, 218); font-family: &quot;Abril Fatface&quot;; font-size: 50.0001px; font-weight: bold; white-space: pre;">공급전 안전검사 결과조치</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.847168, 1608.710938)" style="font-size: 50px; white-space: pre;">가스 공급을 요청하면 가스공급 전 안전 점검을 실시하고 이상이 없는 경우에 한하여 가스를 공급합니다.</text>
+  <rect x="1528.416" y="2574.731" width="1263.703" height="2.175" style="fill: rgb(216, 216, 216);"/>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.905457, 1659.339844)" style="font-size: 50px; white-space: pre;">만약, 이상이 있는 경우, 부적절한 사항을 신청인과 시공업체에게 통보하며 이 경우 신청인과 시공업체는 시설을 보완 후 재차 가스공급을</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.993286, 1710.841064)" style="font-size: 50px; white-space: pre;">요청하여야 하며 안전점검을 실시 후 가스를 공급합니다.</text>
+  <text x="15.245" y="207.56" transform="matrix(1, 0, 0, 0.999998, 1552.441406, 2446.772949)" style="fill: rgb(116, 85, 218); font-family: &quot;Abril Fatface&quot;; font-size: 50.0001px; font-weight: bold; white-space: pre;">도시가스 공급 검사시 준비 사항 안내</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.847168, 1898.710938)" style="font-size: 50px; white-space: pre;">1. 가스 공급 당일 각 세대별 기존 LP가스통 호스 분리 및 사용중지를 해야만 도시가스 사용이 가능합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.905457, 1949.339844)" style="font-size: 50px; white-space: pre;">2. 당일 각 세대별로 출입이 가능하도록 집에 상주하시거나 타인에게 열쇠를 인계하여 출입이 가능하도록 해야 합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.993286, 2000.841064)" style="font-size: 50px; white-space: pre;">3. 가스 공급일 이전에 도시가스 고객센터에 전화 연락을 하여 가스렌지 연결을 요청하셔야 합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.993286, 2048.841064)" style="font-size: 50px; white-space: pre;">    이때 필요한 사항은 각 세대별 개인정보등록을 위한 주민등록번호, 연락처, 정확한 주소 등을 알고 계셔야 합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.993286, 2098.841064)" style="font-size: 50px; white-space: pre;">4. 기존 LPG 가스렌지나 LPG 보일러를 도시가스용으로 사용하기 위해서는 노출 변경 및 열 변환을 하셔야 합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.993286, 2147.841064)" style="font-size: 50px; white-space: pre;">    공급 이틀 전 가스렌지 및 가스보일러 제조사 A/S센터 또는 도시가스시공사에 노출 변경 신청 출장 접수를 하셔야 당일 사용 가능합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, 597.993286, 2195.841064)" style="font-size: 50px; white-space: pre;">    보일러의 경우 노출 변겨이 외 보험증권 발행등의 부가적인 업무가 필요하므로 공사를 했던 시공사에 문의 하셔도 됩니다.</text>
+  <rect x="1527.928" y="3069.358" width="1263.703" height="2.175" style="fill: rgb(216, 216, 216);"/>
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Abril+Fatface:400|Roboto:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic);</style>
+  </defs>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 883.436768)" style="font-size: 50px; white-space: pre;">모든 문제에 대해서는 신청인과 시공업체에게 </text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 963.436768)" style="font-size: 50px; white-space: pre;">책임이 있습니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 1043.436768)" style="font-size: 50px; white-space: pre;">신청인께서 시공업체를 직접 신청하시기 바라며 시공업체는 </text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 1123.436768)" style="font-size: 50px; white-space: pre;">반드시 건설안전 기본법에 의한 유자격시공업체중</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 1203.436646)" style="font-size: 50px; white-space: pre;">선정하시기 바랍니다.</text>
+  <text x="15.245" y="207.56" transform="matrix(1, 0, 0, 0.999998, 31.445263, 2055.97998)" style="fill: rgb(116, 85, 218); font-family: &quot;Abril Fatface&quot;; font-size: 60.0001px; font-weight: bold; white-space: pre;">공급전 안전검사 결과조치</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.148926, 1502.811768)" style="font-size: 50px; white-space: pre;">가스 공급을 요청하면 가스공급 전 안전 점검을 실시하고 </text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.090637, 1582.811768)" style="font-size: 50px; white-space: pre;">이상이 없는 경우에 한하여 가스를 공급합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 1662.811768)" style="font-size: 50px; white-space: pre;">만약, 이상이 있는 경우, 부적절한 사항을 신청인과</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 1742.811768)" style="font-size: 50px; white-space: pre;">시공업체에게 통보하며 이 경우 신청인과 시공업체는</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 1822.811768)" style="font-size: 50px; white-space: pre;">시설을 보완 후 재차 가스공급을 요청하여야 하며 </text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 1902.811768)" style="font-size: 50px; white-space: pre;">안전점검을 실시 후 가스를 공급합니다.</text>
+  <text x="15.245" y="207.56" transform="matrix(1, 0, 0, 0.999998, 31.445263, 2765.512451)" style="fill: rgb(116, 85, 218); font-family: &quot;Abril Fatface&quot;; font-size: 60.0001px; font-weight: bold; white-space: pre;">도시가스 공급 검사시 준비 사항 안내</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.148926, 2212.344238)" style="font-size: 50px; white-space: pre;">1. 가스 공급 당일 각 세대별 기존 LP가스통 호스 분리 및</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.090637, 2292.344238)" style="font-size: 50px; white-space: pre;">사용중지를 해야만 도시가스 사용이 가능합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 2372.344238)" style="font-size: 50px; white-space: pre;">2. 당일 각 세대별로 출입이 가능하도록 집에 상주하시거나</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 2452.344238)" style="font-size: 50px; white-space: pre;">타인에게 열쇠를 인계하여 출입이 가능하도록 해야 합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 2532.344238)" style="font-size: 50px; white-space: pre;">3. 가스 공급일 이전에 도시가스 고객센터에 전화 연락을 하여</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 2612.344238)" style="font-size: 50px; white-space: pre;">가스렌지 연결을 요청하셔야 합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 2692.344238)" style="font-size: 50px; white-space: pre;">이때 필요한 사항은 각 세대별 개인정보등록을 위한</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 2772.343994)" style="font-size: 50px; white-space: pre;">주민등록번호, 연락처, 정확한 주소 등을 알고 계셔야 합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 2852.783691)" style="font-size: 50px; white-space: pre;">4. 기존 LPG 가스렌지나 LPG 보일러를 도시가스용으로 </text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 2932.783691)" style="font-size: 50px; white-space: pre;">사용하기 위해서는 노출 변경 및 열 변환을 하셔야 합니다.</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 3012.783691)" style="font-size: 50px; white-space: pre;">공급 이틀 전 가스렌지 및 가스보일러 제조사 A/S센터 </text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 3092.783447)" style="font-size: 50px; white-space: pre;">또는 도시가스시공사에 노출 변경 신청 출장 접수를 하셔야 </text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 3254.447754)" style="font-size: 50px; white-space: pre;">보일러의 경우 노출 변겨이 외 보험증권 발행등의 부가적인</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 3334.44751)" style="font-size: 50px; white-space: pre;">업무가 필요하므로 공사를 했던 시공사에 문의 하셔도 됩니다</text>
+  <text x="971.287" y="822.949" transform="matrix(1, 0, 0, 1.000001, -923.002808, 3172.783447)" style="font-size: 50px; white-space: pre;">당일 사용 가능합니다.</text>
+</svg>
