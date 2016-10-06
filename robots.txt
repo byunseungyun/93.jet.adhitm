@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: 
-Sitemap:http://cmgs.him114.com/sitemap.xml
+Sitemap:http://jet.adhitm.com/sitemap.xml
 
 User-agent:Yeti
 Disallow: 
